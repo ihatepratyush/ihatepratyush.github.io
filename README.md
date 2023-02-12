@@ -1,4 +1,3 @@
-# ihatepratyush.github.io
 <!FILETYPE HTML>
 
 <BODY>
